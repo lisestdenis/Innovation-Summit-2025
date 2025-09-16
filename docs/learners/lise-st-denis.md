@@ -6,12 +6,12 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Lise St Denis  
+- **Affiliation:** CIRES, Earth Lab  
+- **Email:** lise.st.denis@colorado.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+Societal impacts of wildfire and wildfire response
 
 ## Fun Fact
 Share one fun fact about yourself!  
