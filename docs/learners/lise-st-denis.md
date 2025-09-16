@@ -6,8 +6,8 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
+- **Name:** Lise St Denis
+- **Your institution or organization:** CIRES,Earth Lab
 - **Email:** your@email.edu  
 
 ## Research Interests
